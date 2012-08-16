@@ -150,6 +150,9 @@ de-CH:
       creditcard: 
         one: Kreditkarte
         other: Kreditkarten
+      spree/image: 
+        one: Bild
+        other: Bilder
       inventory_unit: 
         one: Inventarnummer
         other: Inventarnummern
